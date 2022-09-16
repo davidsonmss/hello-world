@@ -1,2 +1,3 @@
 # hello-world
-Olá mundo!
+
+Esse é meu primeiro repositório como aluno de flutter da cubos
